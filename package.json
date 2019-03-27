@@ -1,0 +1,24 @@
+{
+  "name": "electronexpressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniki219/electronexpressdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniki219/electronexpressdemo/issues"
+  },
+  "homepage": "https://github.com/Aniki219/electronexpressdemo#readme",
+  "dependencies": {
+    "electron": "^4.1.1",
+    "electron-reload": "^1.4.0",
+    "express": "^4.16.4"
+  }
+}
